@@ -1,0 +1,4 @@
+# Delimiter: \\ if Windows, / for Linux, etc.
+# Example:
+C:\Windows\System32\calc.exe
+C:\Windows\System32\notepad.exe
